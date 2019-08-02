@@ -1,0 +1,33 @@
+		<<<Resultados Liang - Barsky>>>
+
+<<<Coordenadas de los Puntos>>>
+X[0] = 1,	Y[1] = 2 
+X[2] = 3,	Y[3] = 4 
+X[4] = 5,	Y[5] = 6 
+X[6] = 7,	Y[7] = 8 
+X[8] = 9,	Y[9] = 10 
+X[10] = 11,	Y[11] = 12 
+X[12] = 13,	Y[13] = 14 
+X[14] = 15,	Y[15] = 16 
+
+===============================================================================
+
+
+<<<Resumen de los Puntos>>>
+
+Limite izquierdo de la linea 1: Punto de corte en (0, 2)
+Limite izquierdo de la linea 1: Punto de corte en (4199136, 4199136)
+Limite izquierdo de la linea 1: Punto de corte en (596135672, 596135673)
+Limite izquierdo de la linea 1: Punto de corte en (4199136, 4199136)
+Limite izquierdo  de la linea 2: No hay punto de recorte.
+Limite izquierdo de la linea 2: Punto de corte en (4199136, 4199136)
+Limite izquierdo de la linea 2: Punto de corte en (596135672, 596135673)
+Limite izquierdo de la linea 2: Punto de corte en (4199136, 4199136)
+Limite izquierdo  de la linea 3: No hay punto de recorte.
+Limite izquierdo de la linea 3: Punto de corte en (4199136, 4199136)
+Limite izquierdo de la linea 3: Punto de corte en (596135672, 596135673)
+Limite izquierdo de la linea 3: Punto de corte en (4199136, 4199136)
+Limite izquierdo  de la linea 4: No hay punto de recorte.
+Limite izquierdo de la linea 4: Punto de corte en (4199136, 4199136)
+Limite izquierdo de la linea 4: Punto de corte en (596135672, 596135673)
+Limite izquierdo de la linea 4: Punto de corte en (4199136, 4199136)

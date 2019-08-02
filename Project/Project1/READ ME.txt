@@ -1,0 +1,16 @@
+Programa para el algoritmo de Liang-Barsky
+hecho en c con el editor de texto Sublime Text 3
+y con el compilador MinGW
+Las coordenadas de los puntos deben ingresarse
+en pares por linea separados por un espacio o
+algun caracter
+Cada dos lineas de texto equivalen a una linea
+gráfica
+
+EJEMPLO
+2 3	//AMBAS COORDENADAS EQUIVALEN A UNA LINEA
+4 8	//SON X1 Y1
+	//X2 Y2
+
+No se deben colocar comentarios o algun otro
+tipo de texto
